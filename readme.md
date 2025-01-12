@@ -83,9 +83,6 @@ Pose-Recognition-Using-Python/
 
 The processed images will display detected body landmarks connected by lines, forming a recognizable pose skeleton. Below is an example of the output:
 
-![image](https://github.com/user-attachments/assets/f5f152f7-e307-454b-ba15-5ba297f4b12c)
-![image](https://github.com/user-attachments/assets/f2a606dd-4fcd-4cad-8331-7ccc0883cda4)
-h
 ![output_img](https://github.com/user-attachments/assets/3f1a5bf1-5c49-4e1d-8b80-1e5f5b20a2b2)
 
 
